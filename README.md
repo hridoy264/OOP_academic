@@ -1,4 +1,4 @@
-# RME 2213: OBJECT ORIENTED PROGRAMMING (PYTHON)
+# RME 2203, 2213: OBJECT ORIENTED PROGRAMMING (PYTHON)
 This repository contains all course materials, lab tasks, assignments, homeworks and practice problems through this whole semester.
 
 Conducted by: Dr. Md. Mehedi Hasan
