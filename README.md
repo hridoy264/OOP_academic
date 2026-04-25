@@ -1,2 +1,9 @@
-# OOP_academic
-This is a academic course on OOP(Object Oriented Programming) Lab course RME 2213. Which is conducted by Dr. Md. Mehedi Hassan in 2026.
+# RME 2213: OBJECT ORIENTED PROGRAMMING (PYTHON)
+This repository contains all course materials, lab task, assignment, homework and practice problems through this whole semester.
+
+Conducted by: Dr. Md. Mehedi Hasan
+Level 2 Semester 2
+Degree: BSc in Robotics and Mechatronics Engineering, University of Dhaka
+Course title: Object oriented programming
+Course code: RME-2203(Theory), RME-2213(Lab)
+Language used: Python
