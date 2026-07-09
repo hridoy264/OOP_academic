@@ -1,0 +1,6 @@
+This is for testing
+Hello world
+I am writting in a file
+This is for testing
+I love python
+I am new to python
