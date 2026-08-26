@@ -1,6 +1,6 @@
-# Practice Catalogue by Problem Type
+# Python & OOP Project Index
 
-This catalogue separates the repository exercises by skill. Follow the suggested order inside each section and attempt each problem before reading its implementation.
+This index groups my implementations by technical area, making it easy to inspect the code that supports each skill listed in the portfolio.
 
 ## Python fundamentals
 
@@ -73,8 +73,8 @@ This catalogue separates the repository exercises by skill. Follow the suggested
 | Payments | [`payment_processing_system.py`](./final_oop_projects/payment_processing_system.py) |
 | Shapes and vehicles | [`shape_area_calculator.py`](./final_oop_projects/shape_area_calculator.py), [`vehicle_hierarchy.py`](./final_oop_projects/vehicle_hierarchy.py) |
 
-## Duplicate submission snapshots
+## Academic submission snapshots
 
-`lab_05_collections_submission` preserves the submitted copy of the Lab 5 exercises. The ZIP files at the repository root preserve original academic submission snapshots. Use the active topic folders for learning and the archives only for historical reference.
+`lab_05_collections_submission` preserves the submitted copy of the Lab 5 exercises. The ZIP files at the repository root preserve the original academic submission snapshots.
 
-Return to the [tutorial homepage](./README.md) or continue to the [final revision guide](./final_oop_projects/README.md).
+Return to the [portfolio homepage](./README.md) or view the [final revision notes](./final_oop_projects/README.md).
