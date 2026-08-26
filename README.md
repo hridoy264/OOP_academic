@@ -10,14 +10,14 @@ A practical collection of my academic work and independent exercises in **Python
 
 | Concept | What I practised | Examples |
 | --- | --- | --- |
-| Classes and objects | Constructors, instance state, class and static methods | [`Lab_1`](./Lab_1), [`ostad/module 4`](./ostad/module%204) |
-| Encapsulation | Private/protected attributes, properties, getters and setters | [`goodBankAccount.py`](./Lab_final_practice/goodBankAccount.py), [`secureAccountWithPin.py`](./Lab_final_practice/secureAccountWithPin.py) |
-| Inheritance | Single, multiple, multilevel, hierarchical and hybrid inheritance | [`Lab_final_practice`](./Lab_final_practice), [`inheritance.py`](./ostad/module%204/inheritance.py) |
-| Polymorphism | Method overriding and common interfaces | [`polymorphism.py`](./ostad/module%204/polymorphism.py), [`paymentProcessingForDifferentPaymentMethod.py`](./Lab_final_practice/paymentProcessingForDifferentPaymentMethod.py) |
-| Abstraction | Abstract base classes and implementation contracts | [`abstraction.py`](./Lab_final_practice/abstraction.py), [`shapeAreaCalculator.py`](./Lab_final_practice/shapeAreaCalculator.py) |
-| Object relationships | Association, aggregation and composition | [`association_aggregation_composition.py`](./ostad/module%204/association_aggregation_composition.py) |
-| Applied modelling | Payroll, banking, university, vehicle and payment systems | [`Lab_final_practice`](./Lab_final_practice) |
-| Problem solving | Searching, sorting, recursion, strings and exception handling | [`Lab_2`](./Lab_2), [`Lab_3/Tasks`](./Lab_3/Tasks) |
+| Classes and objects | Constructors, instance state, class and static methods | [`lab_01_oop_basics`](./lab_01_oop_basics), [`module_04_object_oriented_programming`](./ostad/module_04_object_oriented_programming) |
+| Encapsulation | Private/protected attributes, properties, getters and setters | [`encapsulated_bank_account.py`](./final_oop_projects/encapsulated_bank_account.py), [`secure_bank_account_with_pin.py`](./final_oop_projects/secure_bank_account_with_pin.py) |
+| Inheritance | Single, multiple, multilevel, hierarchical and hybrid inheritance | [`final_oop_projects`](./final_oop_projects), [`inheritance.py`](./ostad/module_04_object_oriented_programming/inheritance.py) |
+| Polymorphism | Method overriding and common interfaces | [`polymorphism.py`](./ostad/module_04_object_oriented_programming/polymorphism.py), [`payment_processing_system.py`](./final_oop_projects/payment_processing_system.py) |
+| Abstraction | Abstract base classes and implementation contracts | [`abstraction.py`](./final_oop_projects/abstraction.py), [`shape_area_calculator.py`](./final_oop_projects/shape_area_calculator.py) |
+| Object relationships | Association, aggregation and composition | [`association_aggregation_composition.py`](./ostad/module_04_object_oriented_programming/association_aggregation_composition.py) |
+| Applied modelling | Payroll, banking, university, vehicle and payment systems | [`final_oop_projects`](./final_oop_projects) |
+| Problem solving | Searching, sorting, recursion, strings and exception handling | [`lab_02_python_fundamentals`](./lab_02_python_fundamentals), [`lab_03_algorithms/tasks`](./lab_03_algorithms/tasks) |
 
 ## Featured projects
 
@@ -30,24 +30,28 @@ These examples best represent the object-oriented ideas explored in the reposito
 - **Shape area calculator** — uses abstraction and method overriding across shape types.
 - **Vehicle hierarchy** — explores reusable parent behaviour and specialized child classes.
 
-You can find all of them in [`Lab_final_practice`](./Lab_final_practice).
+You can find all of them in [`final_oop_projects`](./final_oop_projects).
 
 ## Repository structure
 
 ```text
 OOP_academic/
-├── Lab_1/                  # Classes, objects, self and class methods
-├── Lab_2/                  # Python fundamentals and problem solving
-├── Lab_3/Tasks/            # Searching, sorting and introductory OOP tasks
-├── Lab_4/ ... Lab_6/       # Course lab exercises
-├── 18_Lab7/ and 18_Lab8/  # Later lab submissions and encapsulation exercises
-├── Lab_final_practice/     # Applied OOP mini-projects and exam preparation
-├── Pynative_practices/     # Basic Python and focused OOP exercises
-├── Random_practices/       # Additional problem-solving experiments
-└── ostad/                  # Structured Python and OOP learning modules
+├── lab_01_oop_basics/                    # Classes, objects and methods
+├── lab_02_python_fundamentals/           # Core Python problem solving
+├── lab_03_algorithms/                    # Searching and sorting
+├── lab_04_library_catalog_assessment/    # Library catalogue assessment
+├── lab_05_collections/                   # Dictionaries, lists and sets
+├── lab_06_string_processing/             # String exercises
+├── lab_07_abstraction_submission/        # Abstract classes and methods
+├── lab_08_inheritance_encapsulation_submission/
+│                                           # Inheritance and secure state
+├── final_oop_projects/                   # Applied OOP mini-projects
+├── pynative_practice/                    # Python and OOP exercises
+├── additional_practice/                  # Extra problem solving
+└── ostad/                                # Structured learning modules
 ```
 
-Some folders and filenames follow the original course submission format so the academic history remains intact.
+All active folders and scripts use descriptive `snake_case` names. ZIP archives are retained as snapshots of the original academic submissions and are named by their topic.
 
 ## Run the examples
 
@@ -56,7 +60,7 @@ This repository uses the Python standard library, so no package installation is 
 ```bash
 git clone <your-repository-url>
 cd OOP_academic
-python3 Lab_final_practice/employeePayrollSystem.py
+python3 final_oop_projects/employee_payroll_system.py
 ```
 
 Replace the final path with any example you want to explore. Most files are self-contained scripts and print their results to the terminal; a few exercises request console input.
@@ -83,4 +87,4 @@ This is a learning repository rather than a single production application. Early
 
 ## Feedback
 
-Suggestions and constructive feedback are welcome. If you are exploring this repository, start with [`Lab_final_practice`](./Lab_final_practice) for the clearest overview of my OOP practice.
+Suggestions and constructive feedback are welcome. If you are exploring this repository, start with [`final_oop_projects`](./final_oop_projects) for the clearest overview of my OOP practice.
