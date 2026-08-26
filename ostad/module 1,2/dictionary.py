@@ -23,5 +23,5 @@ b = ["mango", "banana", "apple"]
 # {1: mango, 2: 'banana', 3: 'apple'}
 print(list(zip(a,b)))
 c = dict(zip(b, a))
-
+print(c)
 print(c["mango"])

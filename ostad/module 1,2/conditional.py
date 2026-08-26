@@ -2,7 +2,7 @@
     Ajke jodi bristy hoy
         school e jabo na
     na hoile 
-        jabe
+        jabo
 '''
 
 # if else
