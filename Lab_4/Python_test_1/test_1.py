@@ -42,10 +42,3 @@ print([book["id"] for book in catalog])
 
 for book in catalog:
     print(book["id"], book["title"], book["author"], book["copies"], book["year"])
-
-for i in range(len())
-
-
-
-
-
